@@ -399,10 +399,10 @@ section {
 }
 
 .facts .count-box span {
-  font-size: 48px;
-  line-height: 40px;
-  display: block;
-  font-weight: 700;
+  font-size: 16px;
+  line-height: 14px;
+  
+  font-weight: 400;
   color: #050d18;
   margin-left: 60px;
 }
@@ -430,7 +430,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
